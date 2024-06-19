@@ -1,5 +1,5 @@
 # Workshop_03 - Machine Learning Prediction and streaming data 
-Autor: [@ManuelaMayorga](https://github.com/ManuelaMayorga)
+Autor: [@Miniicow](https://github.com/Miniicow)
 
 ---
 
